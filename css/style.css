@@ -1,0 +1,34 @@
+.project1{
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serifs;
+    padding: 3rem;
+    background-color: whitesmoke;
+    
+    width: 75%;
+    margin: auto;
+   
+   
+}
+h1{
+    font-size: 3rem;
+    
+}
+img{
+    max-width: 100%;
+}
+blockquote{
+    border-left: 3px solid grey;
+
+
+}
+#p1{
+    border-top: 5px solid blue;
+    border-bottom: 5px solid blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+}
+#remote{
+    width: 100%;
+    margin:0;
+}
+   
